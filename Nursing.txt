@@ -1,0 +1,262 @@
+1	  Queen Alexandra’s Imperial Military 	Nursing Service, and 118 Other Ranks. TOTAL 	8031ocrcleaned.txt	2	2
+2	  TO BE ATTACHED with effect 1/4/18. 	NURSING SISTEERS J.H. ROBERTSON RRC. 	8070ocrcleaned.txt	40	1
+3	 nces to Appendices Eastbourne, Sussex. 26/2/18. - 	NURSING SISTER A.A. CABSCALLEN taken 	8063ocrcleaned.txt	34	1
+4	  from No.3 C.C.B. 18/7/18. “ 25/7/18. - 	NURSING SISTER A. CANNING taken on 	8080ocrcleaned.txt	49	4
+5	 .M.C.R. & T.depot,10/10/18. 	NURSING SISTER A.G.LUKE taken 	8091ocrcleaned.txt	60	8
+6	 rences to Appendices Eastbourne. Sussex. 7/11/18. 	NURSING SISTER A.HOWARD A.HOWARD 	8096ocrcleaned.txt	65	1
+7	 rom Regimental Depots Seaford 6/8/18. “ 14/8/18 - 	Nursing Sister A.J. MacEwen taken 	8082ocrcleaned.txt	51	1
+8	 . MORIARTY struck off the Strength. “ 12/9/17 - 	Nursing Sister A.L. MCPHEE struck 	8050ocrcleaned.txt	21	5
+9	 .M.C. Depot, as from 13/12/17. “ 24/12/17 - 	NURSING SISTER A.M. KENNEDY Struck 	8056ocrcleaned.txt	27	4
+10	 .M.C. Depot as from 10/4/18. 	NURSING SISTER A.M. POWERS struck 	8070ocrcleaned.txt	40	5
+11	 .A.M.C. Regimental Depot 9/8/17. 	Nursing Sister A.R. Walker and 	8082ocrcleaned.txt	51	3
+12	 .A.M.C. Regimental Depot,29/9/18. 	NURSING SISTER B.A.FRY taken 	8091ocrcleaned.txt	60	1
+13	  to No.11. C.G.H. 19/12/18.  	NURSING SISTER B.A.FRY struck 	8100ocrcleaned.txt	69	3
+14	  C.A.M.C. Depot 22/2/18. 	NURSING SISTER B.H. WILSON STRUCK 	8063ocrcleaned.txt	34	5
+15	 .M.C. Depot with effect 26/12/17. 	NURSING SISTER B.M. WILSON taken 	8056ocrcleaned.txt	27	5
+16	 , taken over in its place. “ 21/7/17 - 	Nursing Sister C.A. KING Proceeded 	8046ocrcleaned.txt	17	1
+17	  C.A.M.C. Depot 20/2/18. 	NURSING SISTER C.B. McLEWAGHAN struck 	8063ocrcleaned.txt	34	7
+18	 .M.C. Depot as from 15/3/18. “ 26/3/18 - 	NURSING SISTER C.E. PELL taken 	8067ocrcleaned.txt	37	8
+19	 .M.C.R. & T.DEPOT,24/10/18. 	NURSING SISTER C.R.TANNER taken 	8092ocrcleaned.txt	61	3
+20	 .M.C.R. & T.Depot,24/10/18. 	NURSING SISTER C.R.TANNER struck 	8092ocrcleaned.txt	61	4
+21	 .H. HENDERSON recalled from Command. - 3/2/17 - 	Nursing Sister C.S.T. PHILIP 	8041ocrcleaned.txt	12	1
+22	 .M.C. Depot as from 6/3/18. 	NURSING SISTER D.D. MORRIS taken 	8067ocrcleaned.txt	37	5
+23	 .A.M.C.Cas.Coy.14-2-19. 	NURSING SISTER D.M.MOLE struck 	8107ocrcleaned.txt	75	5
+24	  C.A.M.C. Depot, 29/6/18. 	NURSING SISTER deBELLEFEUILLE awarded Royal Red 	8076ocrcleaned.txt	46	7
+25	 t Hospital, Yearwood Park, WOKINGHAM. - 23/1/17 - 	Nursing Sister E.A. DAVIES taken 	8040ocrcleaned.txt	11	4
+26	 . EAGAR taken on the Strength. “ 10/9/17 - 	Nursing Sister E.A. DAVIES granted 	8050ocrcleaned.txt	21	4
+27	 .C. Casualty Depot as from 14/6/18. “ 20/6/18. - 	NURSING SISTER E.A. BENNETT taken 	8076ocrcleaned.txt	46	4
+28	 gth from Bearwood Convalescent Hospital,17/10/18. 	NURSING SISTER E.B.BIGGAR taken 	8091ocrcleaned.txt	60	10
+29	 .A.M.C.Cas.Coy.18/12/18. 	NURSING SISTER E.BRADLEY taken on 	8100ocrcleaned.txt	69	2
+30	 ranted extension of Leave to 30/4/17. “ 13/4/17 - 	Nursing Sister E.F. TAGGIE taken 	8043ocrcleaned.txt	14	3
+31	 . MCPHEE struck off the Strength. “ 14/9/17 - 	Nursing Sister E.F. TAGGIE granted 	8050ocrcleaned.txt	21	6
+32	 .M.C. Depot as from 28/1/18. 	Nursing Sister E.H. Kirkby admitted 	8060ocrcleaned.txt	31	6
+33	 .M.C. Depot as from 26/2/18. 	NURSING SISTER E.H. KIRKBY STRUCK 	8067ocrcleaned.txt	37	2
+34	 .M.C. Depot as from 20/6/18. 	NURSING SISTER E.H. KIRKBY struck 	8076ocrcleaned.txt	46	5
+35	 .M.C. Depot as from 12/3/18. 	NURSING SISTER E.J. BOWIE taken 	8067ocrcleaned.txt	37	6
+36	 .M.C.R. & T.Depot,24/10/18. 	NURSING SISTER E.J.JOHNSTON and 	8092ocrcleaned.txt	61	1
+37	 .C. Casualty Depot as from 22/6/18. “ 30/6/18. - 	NURSING SISTER E.K. MOODY and 	8076ocrcleaned.txt	46	6
+38	 .M.C. Depot with effect 24/1/18. 	Nursing Sister E.M. MacKENZIE taken 	8060ocrcleaned.txt	31	3
+39	 .M.C. Depot as from 26/2/18. 	NURSING SISTER E.M. ASTON taken 	8067ocrcleaned.txt	37	1
+40	 .E.T.D. with effect 1/4/18. “ 10/4/18. - 	NURSING SISTER E.M. KIRKBY taken 	8070ocrcleaned.txt	40	2
+41	 Canadian Red Cross Hospital, TAPLOW. - 25/11/16 - 	Nursing Sister E. ORME taken on 	8038ocrcleaned.txt	9	2
+42	  K. BICE recalled from Command. - 12/2/17 - 	Nursing Sister E. ORME granted Leave 	8041ocrcleaned.txt	12	3
+43	 .M.C. Depot with effect 7/2/18. 	NURSING SISTER E.W. MacKENZIE struck 	8062ocrcleaned.txt	33	1
+44	 , without expense to the Public. - 17/2/17 - 	Nursing Sister F. COLLYER taken on 	8041ocrcleaned.txt	12	4
+45	  C.A.M.C. Depot. “ 6/8/17 - 	Nursing Sister F. COLLYER granted Leave 	8048ocrcleaned.txt	19	1
+46	  C.A.M.C. Depot. “ 21/8/17 - 	Nursing Sister F.M. ANDERSON taken 	8048ocrcleaned.txt	19	7
+47	 . BARRIE Taken on the Strength. “ 6/9/17 - 	Nursing Sister F.M. ANDERSON struck 	8050ocrcleaned.txt	21	3
+48	 .M.C. Depot with effect 12/12/17. 	NURSING SISTER F.M. ANDERSON struck 	8056ocrcleaned.txt	27	3
+49	 . CABSCALLEN taken on the strength 23/2/18. 	NURSING SISTER F.M. BOCKEN taken 	8063ocrcleaned.txt	34	2
+50	 .M.C. Depot as from 13/3/18. 	NURSING SISTER F.M. HOCKEN struck 	8067ocrcleaned.txt	37	7
+51	 .M.C. Depot, as from 18/5/18. “ 26/5/18. - 	NURSING SISTER F.M. ROADHOUSE struck 	8073ocrcleaned.txt	43	7
+52	 .A.M.C. Regimental Depot,8/10/18. 	NURSING SISTER F.M.McNALLY struck 	8091ocrcleaned.txt	60	4
+53	  No.13 C.G.H.Hastings 1-2-19. 	NURSING SISTER F.M.A.KELLY 	8106ocrcleaned.txt	74	1
+54	  C.A.M.C. Depot. “ 27/11/17 - 	Nursing Sister G.A. CONNOR taken 	8054ocrcleaned.txt	25	2
+55	  C.A.M.C. Depot 25/4/18. 	NURSING SISTER G.J. CONNER struck 	8070ocrcleaned.txt	40	8
+56	 .A.M.C. Regimental Depot 8/8/18. 	Nursing Sister G.J. Conner taken 	8082ocrcleaned.txt	51	2
+57	  No.10 Can.Gen.Hosp.Brighton,6-2-19. 	NURSING SISTER G.J.CONNER struck 	8106ocrcleaned.txt	74	10
+58	 . BOCKEN taken on the strength 23/2/18. 	NURSING SISTER H.C. McDONALD taken 	8063ocrcleaned.txt	34	3
+59	  to No.13 Canadian General Hospital,24/9/18. 	Nursing Sister H.C.MacDonald struck 	8089ocrcleaned.txt	58	4
+60	 .A.M.C. Tng.Depot 14/12/18.  	NURSING SISTER H.C.Claxton struck 	8100ocrcleaned.txt	69	7
+61	 .A.M.C.Cas.Coy.19-2-19.  	NURSING SISTER H.D.SHEARER taken 	8106ocrcleaned.txt	74	8
+62	 .A.M.C. Regimental Depot,12/10/18. 	NURSING SISTER H.F.Gillean taken 	8091ocrcleaned.txt	60	3
+63	 ville Canadian Special Hospital, Buxten, 16/9/18. 	NURSING SISTER I.G.McLEOD struck 	8088ocrcleaned.txt	57	3
+64	  from No.4.C.G.H. 7-2-19. 	NURSING SISTER I.V.RAMSAY taken 	8106ocrcleaned.txt	74	7
+65	  C.A.M.C. Depot, 2/5/18. 	NURSING SISTER J. CHRISHOLM struck off 	8073ocrcleaned.txt	43	1
+66	 rences to Appendices Eastbourne Sussex. 7/6/18. - 	NURSING SISTER J.H. ROBERTSON ARRC. 	8076ocrcleaned.txt	46	1
+67	  IS GRANTED Leave from 25/1/18 to 29/1/18. 	Nursing Sister J.M. HUBLEY is 	8060ocrcleaned.txt	31	4
+68	 .M.C. Depot as from 15/3/18. 	NURSING SISTER J.M. HUBLEY struck 	8067ocrcleaned.txt	37	10
+69	  to be attached as from 1/1/18. - 9/1/18 - 	Nursing Sister J.R. HAMILTON taken 	8059ocrcleaned.txt	30	1
+70	 .A.M.C. Casualty Coy.9/11/18. 	NURSING SISTER J.S.LITTLE taken 	8096ocrcleaned.txt	65	3
+71	  strength on dismissal from Service,3-2-19.  	NURSING SISTER K.deBELLEFEUILLE,ARRC. struck 	8106ocrcleaned.txt	74	5
+72	 12 Can. General Hospital, BRAMSHOTT. “ 12/11/17 - 	Nursing Sister K.J. BOWIE and 	8053ocrcleaned.txt	24	5
+73	  C.A.M.C. Depot 23/2/18. 	NURSING SISTER K.J. BOWIE struck 	8063ocrcleaned.txt	34	6
+74	  C.A.M.C. Depot, 11/5/18. 	NURSING SISTER K.J. BOWIE struck 	8073ocrcleaned.txt	43	5
+75	 5 Canadian General Hospital, TAPLOW. “ 12/11/17 - 	Nursing Sister L.I. THOMSON stuck 	8053ocrcleaned.txt	24	4
+76	 .A.M.C. Regimental Depot,23/9/18. 	NURSING SISTER L.WALKER struck off 	8089ocrcleaned.txt	58	3
+77	 . McDONALD taken on the strength 25/2/18. 	NURSING SISTER M.B. MacNEILL struck 	8063ocrcleaned.txt	34	4
+78	  from CAN.Spel.Hosp.Etchinghill, 16/11/18. 	NURSING SISTER M.B.McKinnon taken 	8096ocrcleaned.txt	65	5
+79	 rom Granville Canadian Special Hospital,14/10/18. 	NURSING SISTER M.C.KERR taken 	8091ocrcleaned.txt	60	9
+80	  from No.10 C.G.H.17/10/18. 	NURSING SISTER M.C.Claxton taken 	8091ocrcleaned.txt	60	11
+81	 .A.M.C.Casualty Coy.19/10/18. 	NURSING SISTER M.C.KERR struck 	8091ocrcleaned.txt	60	12
+82	  C.A.M.C. Depot, 31/8/17. “ 1/9/17 - 	Nursing Sister M.E. MAILLARD taken 	8050ocrcleaned.txt	21	1
+83	 .M.C. Depot as from 14/3/18. 	NURSING SISTER M.E. MAILLARD GRANTED 	8067ocrcleaned.txt	37	11
+84	  Granville Can. Spcl. Hospital, Buxton, 22/5/18. 	NURSING SISTER M.E. MAILLARD struck 	8073ocrcleaned.txt	43	8
+85	  to No.15 C.G.H.8/10/18. 	NURSING SISTER M.E.DAUGHARTY struck 	8091ocrcleaned.txt	60	5
+86	  to .M.A.T. "ARAGUATA" 11/10/18. 	NURSING SISTER M.E.GRIERSON struck 	8091ocrcleaned.txt	60	6
+87	 .A.M.C. Regimental Depot.9/8/18. 	NURSING SISTER M.G.MORRISON struck 	8088ocrcleaned.txt	57	1
+88	 .C. Reserve and Training Depot,8/11/18. 	NURSING SISTER M.HALL taken on 	8096ocrcleaned.txt	65	2
+89	 .A.M.C. Regimental Depot,13/9/18. 18/9/18. 	NURSING SISTER M.HODGE taken on 	8088ocrcleaned.txt	57	2
+90	  C.A.M.C. Depot. “ 22/11/17 - 	Nursing Sister M.I. MACROBERTS struck 	8053ocrcleaned.txt	24	7
+91	 nces to Appendices Eastbourne, Sussex. 31/5/18. - 	NURSING SISTER M.M. CONNING taken 	8074ocrcleaned.txt	44	1
+92	  No.13 C.G.H.Hastings,4-2-19. 	NURSING SISTER M.M.K.Timlic 	8106ocrcleaned.txt	74	4
+93	 .A.M.C.Cas.Coy.27-2-19.  	NURSING SISTER M.MacLEOD Struck off 	8107ocrcleaned.txt	75	4
+94	  Regimental Depot with effect 6/7/18. “ 12/7/18 - 	NURSING SISTER M.S.P. ELLIS 	8080ocrcleaned.txt	49	1
+95	 .M.C. Depot as from 18/2/18. 	Nursing Sister M. Tait granted leave 	8067ocrcleaned.txt	37	3
+96	 .A.M.C. Regimental Depot 10/7/18. 	NURSING SISTER M. TAIT struck off 	8080ocrcleaned.txt	49	2
+97	 .M.S. Seaford with effect 9/1/18. “ 31/1/18 - 	Nursing Sister N.B. MacNEILL taken 	8060ocrcleaned.txt	31	5
+98	 and references to Appendices Eastbourne. 25/9/18. 	NURSING SISTER N.M.DAUGHARTY taken 	8089ocrcleaned.txt	58	1
+99	  Reserve and Training Depot, 9/7/18. “ 18/7/18. - 	NURSING SISTER N.N. STEVEN SON 	8080ocrcleaned.txt	49	3
+100	 .(London Gazette,dated Dec.30th.1918.) 	Nursing Sister Nota Hodge, Awadred the 	8104ocrcleaned.txt	72	5
+101	 .O. MURRAY attached for Duty. - 21/2/17 - 	Nursing Sister O.K. ISMAY taken 	8041ocrcleaned.txt	12	5
+102	  C.A.M.C. Depot. “ 15/8/17 - 	Nursing Sister O.K. ISMAY granted 	8048ocrcleaned.txt	19	5
+103	 . Tait granted leave from 13/2/18 until 27/2/18. 	Nursing Sister O.K. Ismay Granted 	8067ocrcleaned.txt	37	4
+104	 .M.C. Depot as from 15/3/18. 	NURSING SISTER O.K.ISMAY struck 	8067ocrcleaned.txt	37	9
+105	  references to Appendices Eastbourne. Sussex. (1) 	Nursing Sister on strength at date - 	8098ocrcleaned.txt	67	1
+106	 dg.No.10 Canadian Stationary Hospital. “ 7/4/17 - 	Nursing Sister P.A. IVEY ceases 	8043ocrcleaned.txt	14	2
+107	  No.13 C.G.H.Hastings,15-2-19. 	NURSING SISTER R.M.QUINN taken 	8106ocrcleaned.txt	74	6
+108	 rences to Appendices Eastbourne Sussex. 28/11/18. 	NURSING SISTER R.R.GRAHAM taken 	8097ocrcleaned.txt	66	1
+109	  No.9 C.G.H.Rhyl,26-2-19.  	NURSING SISTER R.R.GRAHAM struck 	8107ocrcleaned.txt	75	6
+110	 .M.C. Depot with effect 3/1/18.  	Nursing Sister R. SCATCHERD, taken on 	8059ocrcleaned.txt	30	2
+111	  B.C. Regimental Depot, SEAFORD. “ 16/6/17 - 	Nursing Sister S.B. POPHAM proceeded 	8045ocrcleaned.txt	16	3
+112	 ave of Absence from 6/8/17 to 22/8/17. “ 8/8/17 - 	Nursing Sister S.B. POPHAM taken 	8048ocrcleaned.txt	19	2
+113	  C.A.M.C. Depot 23/2/18. “ 28/2/18 - 	NURSING SISTER S.J. ROBLEY taken 	8063ocrcleaned.txt	34	8
+114	  coy for return to Canada,28/11/18. 30/11/18. 	NURSING SISTER S.J.ROBLEY, ARRC, 	8097ocrcleaned.txt	66	3
+115	 .A.M.C.Cas.Coy. 24-2-19.  	NURSING SISTER S.RAWLINSON struck off 	8107ocrcleaned.txt	75	3
+116	 .A.M.C.Cas.Coy.3-2-19.  	NURSING SISTER S.ROWLANDSON taken on 	8106ocrcleaned.txt	74	2
+117	  to Temp. Captain with effect 9/12/17. 	Nursing Sister V.E. PAGE admitted 	8060ocrcleaned.txt	31	2
+118	 .A.M.C.Casualty Coy.20/12/18.  28/12/18. 	NURSING SISTER V.WALKER taken on 	8100ocrcleaned.txt	69	5
+119	 ILLARD taken on the Strength, 29/8/17. “ 3/9/17 - 	Nursing Sister W. BARRIE Taken on 	8050ocrcleaned.txt	21	2
+120	 .A.M.C.Casualty Coy.28/12/18.  	NURSING SISTERG.H.GILLEAN struck off 	8100ocrcleaned.txt	69	6
+121	 .Red.Cross Hosp.Bushey Park, 16/12/18.  	NURSING SISTERS A.C.C.DeWOLFE,	8100ocrcleaned.txt	69	4
+122	 .A.M.C.Casualty Coy.9/12/18. 	NURSING SISTERS A.G.LUKE,K.	8100ocrcleaned.txt	69	1
+123	  1 Other Rank recalled from Command. - 25/11/16 - 	Nursing Sisters A.HICKS, J. MACALLUM 	8038ocrcleaned.txt	9	1
+124	 pital, EASTBOURNE. EASTBOURNE, SUSSEX. 21/1/17. - 	Nursing Sisters A. HICKS, E. ORME, 	8040ocrcleaned.txt	11	1
+125	 , C.E.F. EASTBOURNE, SUSSEX. 1/3/17. - 	Nursing Sisters A. HICKS and B.	8042ocrcleaned.txt	13	3
+126	  C.A.M.C. Depot “ 13/8/17 - 	Nursing Sisters A.M. KENNEDY and 	8048ocrcleaned.txt	19	4
+127	 , 14. NURSING SISTERS, 21. OTHER RANKS, 117. All 	Nursing Sisters and about 70 percent of 	8042ocrcleaned.txt	13	2
+128	  received from Headquarters for Officers, 	Nursing Sisters and other Ranks taken 	8031ocrcleaned.txt	2	4
+129	 ./1917. Hospital temporarily staffed by Officers, 	Nursing Sisters and Other Ranks carried 	8052ocrcleaned.txt	23	1
+130	 n Stationary Hospital, comprising 15 Officers, 30 	Nursing Sisters and 118 Other Ranks, remain 	8054ocrcleaned.txt	25	5
+131	 . Oct.2/18. About twenty of the 	Nursing Sisters attended a dance at 	8094ocrcleaned.txt	63	1
+132	  C.A.M.C. Depot, 25/5/18. 	NURSING SISTERS B.M. MOLE and 	8074ocrcleaned.txt	44	2
+133	 . DOUGLAS, taken on the Strength. 1/6/16 - 	Nursing Sisters C.A. KING, S.	8033ocrcleaned.txt	4	1
+134	  as soon as fully equipped. - 22/1/17 - 	Nursing Sisters C.A. KING and 	8040ocrcleaned.txt	11	2
+135	 nadian Military Hospital, EASTBOURNE. - 24/2/17 - 	Nursing Sisters C.A. KING, S.	8041ocrcleaned.txt	12	6
+136	  and Quarters on proceeding Overseas. 16 	NURSING SISTERS cease to be attached 	8056ocrcleaned.txt	27	1
+137	  on their discharge from Hospitals. - 6/3/17 - 	Nursing Sisters E.A. DAVIES, G. 	8042ocrcleaned.txt	13	4
+138	  from 10/12/17. Matron H.K. DULMAGE, 	NURSING SISTERS, E.A. DAVIES, N.	8056ocrcleaned.txt	27	2
+139	  from 4/1/18. Matron H.K. DULMAGE, 	Nursing Sisters E.A. DAVIES, N.	8059ocrcleaned.txt	30	5
+140	 .A.M.C. Casualty Coy.21/11/18. 	NURSING SISTERS E.A.BENNET, M.	8097ocrcleaned.txt	66	2
+141	  strength from Can.Conval.Hosp.10-2-19.  	NURSING SISTERS E .ELLIOT,K.HANNA,	8106ocrcleaned.txt	74	9
+142	  C.A.M.C. Depot, “ 12/5/17 - 	Nursing Sisters E.J. BOWIE and 	8044ocrcleaned.txt	15	2
+143	 .C.R.A T.Depot,1/10/18. 	NURSING SISTERS, E.J.GUILD, E.	8091ocrcleaned.txt	60	2
+144	 e of Absence from 16/4/17 to 30/4/17. “ 18/4/17 - 	Nursing Sisters E.L. BOYDEN, N.	8043ocrcleaned.txt	14	5
+145	  C.A.M.C. Depot. “ 5/11/17 - 	NURSING SISTERS E.L. BOYDEN, F. 	8053ocrcleaned.txt	24	3
+146	 .M.C. Depot with effect 31/2/18. 	NURSING SISTERS E.L. LeROY and 	8062ocrcleaned.txt	33	3
+147	 . HEBERT, LIEUT. W.C. PAGE, 	NURSING SISTERS E.M. HOGAN, L.	8054ocrcleaned.txt	25	3
+148	 .M.C. Depot with effect 9/4/18. 	NURSING SISTERS E. WALSH, A.C.	8070ocrcleaned.txt	40	4
+149	  soldiers. 19/6/16 - Matron H.K. DULMAGE, 	Nursing Sisters F. ANDERSON, F. COLLYER, 	8033ocrcleaned.txt	4	5
+150	  Strength. 31/5/16 - Matron H.K. DULMAGE, 	Nursing Sisters F. COLLIER, M.I. 	8032ocrcleaned.txt	3	1
+151	  attached. “ 17/10/17 - MATRON H.K. DULMAGE, 	NURSING SISTERS F. COLLIER, E.A. 	8052ocrcleaned.txt	23	2
+152	 .M.C. Depot with effect 11/4/18. “ 24/4/18 - 	NURSING SISTERS F. HILL and M.	8070ocrcleaned.txt	40	6
+153	  C.A.M.C. Depot. “ 3/11/17 - 	NURSING SISTERS F.M. ANDERSON and 	8053ocrcleaned.txt	24	2
+154	  C.A.M.C. Depot, 14/5/15. 	NURSING SISTERS G.E. MATHESON and 	8073ocrcleaned.txt	43	2
+155	 .M.C. Depot as from 9/4/18. 	NURSING SISTERS G. FRAZER and R.	8070ocrcleaned.txt	40	3
+156	 rom Moore Barracks Canadian Hospital. - 22/1/17 - 	Nursing Sisters G. MCCUE and A.	8040ocrcleaned.txt	11	3
+157	 . PAGE, MATRON H.K. DULMAGE, 	NURSING SISTERS H.M.B. ACTON, 	8054ocrcleaned.txt	25	4
+158	  to HQ London with effect 4/2/18. “ 13/2/18. - 	NURSING SISTERS I.G. McLEOD AND 	8062ocrcleaned.txt	33	2
+159	 .A.M.C.Cas.Coy.4-2-19. 	NURSING SISTERS I.G.FARGEY and 	8106ocrcleaned.txt	74	3
+160	  good. The accomodation for the 	Nursing Sisters is Fair. 	8094ocrcleaned.txt	63	3
+161	  wards. The health of the 	Nursing Sisters is fair. The accomodation 	8098ocrcleaned.txt	67	5
+162	  fair. The accomodation for the 	Nursing Sisters is fair.  	8098ocrcleaned.txt	67	6
+163	  good. The accomodation for the 	Nursing Sisters is fair.  Matron,	8101ocrcleaned.txt.txt	70	6
+164	  Good. (7) The accomodation for the 	Nursing Sisters is Fair. Matron, O.	8109ocrcleaned.txt	77	3
+165	  deaths. The health of the 	Nursing Sisters is good. The accomodation 	8094ocrcleaned.txt	63	2
+166	  - NIL.  The health of the 	Nursing Sisters is good. The accomodation 	8101ocrcleaned.txt.txt	70	5
+167	 .14th.1919. (4) The health of the 	Nursing Sisters is good. (5) The accomodation 	8104ocrcleaned.txt	72	6
+168	  good. (5) The accomodation for the 	Nursing Sisters is good.  Feb.2nd.1919. 	8104ocrcleaned.txt	72	7
+169	 -NIL. (6) The health of the 	Nursing Sisters is Good. (7) The accomodation 	8109ocrcleaned.txt	77	2
+170	 .M.S. of SEAFORD Command, “ 11/5/17 - 	Nursing Sisters J. CHRISHOLM and R. 	8044ocrcleaned.txt	15	1
+171	  Cliff Canadian Hospital, FOLKESTONE. - 26/1/17 - 	Nursing Sisters J. GLENDENNING, P.A. 	8040ocrcleaned.txt	11	6
+172	 .A.D.M.S., SEAFORD. “ 15/5/17 - 	Nursing Sisters J. GLENDENNING and A.	8044ocrcleaned.txt	15	3
+173	 .A.M.C. Regimental Depot,18/9/18. 	NURSING SISTERS J.GLENDINNING and F.	8089ocrcleaned.txt	58	2
+174	 Information Remark EASTBOURNE, SUSSEX. 26/11/17 - 	Nursing Sisters J.H. BARRON and 	8054ocrcleaned.txt	25	1
+175	  C.A.M.C. Depot, 10/6/18. 	NURSING SISTERS J.H. BARRON and 	8076ocrcleaned.txt	46	3
+176	  C.A.M.C. Depot. “ 9/8/17 - 	Nursing Sisters J. JOHNSON and E.	8048ocrcleaned.txt	19	3
+177	 .D.M.S., Canadians, SEAFORD. “ 17/8/17 - 	Nursing Sisters J. MACALLUM and A.	8048ocrcleaned.txt	19	6
+178	 .M.C. Depot with effect 18/1/18. 	Nursing Sisters J.R. ROBERTSON RRC. 	8060ocrcleaned.txt	31	1
+179	  Leave.4. In Hospital 1. 2. The following 	Nursing Sisters joined the Unit during 	8083ocrcleaned.txt	52	3
+180	 .1 In Hospital 1. Total. 42  2. The following 	Nursing Sisters joined the Unit during 	8086occleaned.txt	55	3
+181	  - 44. On Leave - 2. Total - 47. 2. The following 	Nursing Sisters joined the Unit during 	8093ocrcleaned.txt	62	3
+182	 - 4. In Hospital,3. Total - 52. (2) The following 	Nursing Sisters joined the Uit during 	8098ocrcleaned.txt	67	3
+183	 6, In Hospital - 1. TOTAL - 43. (2) The following 	Nursing Sisters joined the Unit during 	8101ocrcleaned.txt.txt	70	3
+184	  Hospital Nil. TOTAL-44. (2) The following 	Nursing Sisters joined the 7nit during 	8104ocrcleaned.txt	72	3
+185	 -1.  In Hospital-1. Total-52. (2) The following 	Nursing Sisters joined the Unit during 	8108ocrcleaned.txt	76	3
+186	  C.A.M.C. Depot. “ 15/11/17 - 	Nursing Sisters K.L. Hibbs and 	8053ocrcleaned.txt	24	6
+187	  from No.12 C.G.M.13/11/18. 	NURSING SISTERS L.A.CHARLTON, O.	8096ocrcleaned.txt	65	4
+188	  C.C.S. as from 6/6/18. 	NURSING SISTERS L.C. SANDERS and 	8076ocrcleaned.txt	46	2
+189	  from No.11 C.G.M.22/10/18. 	NURSING SISTERS L.CAMPBELL and L.	8092ocrcleaned.txt	61	2
+190	 detention of 9 months, 30/4/18. Confirmed 4/5/18. 	NURSING SISTERS L.J. FIFE and 	8073ocrcleaned.txt	43	3
+191	 .M.C. Training School, SHORNCLIFFE. - 5/2/17 - 	Nursing Sisters L.M. ARMSTRONG, M. 	8041ocrcleaned.txt	12	2
+192	 ve of Absence from 6/3/17 to 20/3/17. - 10/3/17 - 	Nursing Sisters L.M. ARMSTRONG, M. 	8042ocrcleaned.txt	13	5
+193	  from No.11 C.G.H. 7-2-19.  	NURSING SISTERS M.A.CUMMINGS,L.	8107ocrcleaned.txt	75	2
+194	 6/16 - 5 Recruits taken on the Strength. 3/6/16 - 	Nursing Sisters M.B. SANDERSON and 	8033ocrcleaned.txt	4	2
+195	 .M.C. Depot with effect 8/1/18. 	Nursing Sisters M.C. McCARTHY, E.	8059ocrcleaned.txt	30	4
+196	 , H.M.H.S. “Leticia”. “ 21/6/17 - 	Nursing Sisters M.E. GRIERSON and 	8045ocrcleaned.txt	16	4
+197	 .A.M.C.cas.Coy.25-2-19.  	NURSING SISTERS M.MacLEOD and D.	8107ocrcleaned.txt	75	1
+198	  C.A.M.C. Depot, 15/5/18. 	NURSING SISTERS M.S. MORRISON and 	8073ocrcleaned.txt	43	6
+199	 .) A Dispenser (Lieut.): Twenty-seven 	Nursing Sisters of the Queen Alexandra’	8031ocrcleaned.txt	2	1
+200	  Strength on this date:- Matron.1. 	Nursing Sisters on duty.37. On Leave.4. 	8083ocrcleaned.txt	52	2
+201	  Strength on this date. Matron 1. 	Nursing Sisters on duty 39. On Official 	8086occleaned.txt	55	2
+202	  on strength at date - Matron - 1. 	Nursing Sisters on Duty - 44. On Leave - 2. 	8093ocrcleaned.txt	62	2
+203	  on strength at date - Matron 1. 	Nursing Sisters on Duty - 44, On Leave.- 4. 	8098ocrcleaned.txt	67	2
+204	  on Strength at dates- Matron 1. 	Nursing Sisters on duty - 37,On leave-6, 	8101ocrcleaned.txt.txt	70	2
+205	  on Strength at date:=Matron 1. 	Nursing Sisters on duty 39, On Leave 4. 	8104ocrcleaned.txt	72	2
+206	  on strength at date- Matron-1. 	Nursing Sisters on Duty-50.On Leave-1.  	8108ocrcleaned.txt	76	2
+207	  references to Appendices Eastbourne. Sussex. 1.	Nursing Sisters on strength at date - 	8093ocrcleaned.txt	62	1
+208	  references to Appendices Eastbourne, Sussex. (1) 	Nursing Sisters on Strength at dates- 	8101ocrcleaned.txt.txt	70	1
+209	 dices Eastbourne.Sussex. January/19. 31/1/19. (1) 	Nursing Sisters on Strength at date:=	8104ocrcleaned.txt	72	1
+210	 es to Appendices  Eastbourne. February/28/19. (1) 	Nursing Sisters on strength at date- 	8108ocrcleaned.txt	76	1
+211	 ks. TOTAL AUTHORIZED ESTABLISHMENT:— OFFICERS—14. 	NURSING SISTERS—27. OTHER RANKS—118. Lt.Colone1 	8031ocrcleaned.txt	2	3
+212	 trength. 31/5/16 - STRENGTH AT DATE - OFFICERS-6, 	NURSING SISTERS-5, OTHER RANKS-95. Syllabus of 	8032ocrcleaned.txt	3	2
+213	 /12/16 - Personnel present at date:- OFFICERS, 6; 	NURSING SISTERS, 6; OTHER RANKS, 47. Edwin Seaborn, 	8039ocrcleaned.txt	10	1
+214	  of Unit at date:- OFFICERS, 14. 	NURSING SISTERS, 21. OTHER RANKS, 117. All Nursing 	8042ocrcleaned.txt	13	1
+215	  Casualties. Strength at Date:- OFFICERS, 14. 	NURSING SISTERS, 20. OTHER RANKS, 118. Edwin Seaborn 	8043ocrcleaned.txt	14	1
+216	  auxiliaries). Strength at date:- OFFICERS, 14. 	NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICER	8043ocrcleaned.txt	14	6
+217	 RS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 4. 	NURSING SISTERS, 5. OTHER RANKS, 9. Canadian Military 	8043ocrcleaned.txt	14	7
+218	 RS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 4. 	NURSING SISTERS, 6. OTHER RANKS, 14. 4 Female Civilian 	8045ocrcleaned.txt	16	2
+219	  auxiliaries). Strength at Date:- OFFICERS, 13. 	NURSING SISTERS, 17. OTHER RANKS, 117. Attached:- OFFICER	8045ocrcleaned.txt	16	5
+220	 RS, 17. OTHER RANKS, 117. Attached:- OFFICERS, 5. 	NURSING SISTERS, 9. OTHER RANKS, 21. CIVILIAN EMPLOYEES, 	8045ocrcleaned.txt	16	6
+221	 ATE. “ 31/7/17 - STRENGTH AT DATE:- OFFICERS, 13. 	NURSING SISTERS, 16. OTHER RANKS, 118. ATTACHED:- OFFICER	8046ocrcleaned.txt	17	2
+222	 RS, 16. OTHER RANKS, 118. ATTACHED:- OFFICERS, 5. 	NURSING SISTERS, 11. OTHER RANKS, 21. CIVILIANS, 4. Avera	8046ocrcleaned.txt	17	3
+223	 TIS. “ 31/8/17 - STRENGTH AT DATE:- OFFICERS, 14. 	NURSING SISTERS, 18. OTHER RANKS, 117. ATTACHED:- OFFICER	8048ocrcleaned.txt	19	8
+224	 RS, 18. OTHER RANKS, 117. ATTACHED:- OFFICERS, 5. 	NURSING SISTERS, 15. OTHER RANKS, 31. “ 31/8/17 - Average	8048ocrcleaned.txt	19	9
+225	 ATE. “ 30/9/17 - STRENGTH AT DATE:- OFFICERS, 15. 	NURSING SISTERS, 32. OTHER RANKS, 127.  ATTACHED:- OFFICE	8050ocrcleaned.txt	21	7
+226	 RD. “ 31/10/17 - STRENGTH AT DATE:- OFFICERS, 17. 	NURSING SISTERS, 34. OTHER RANKS, 140. AVERAGE NUMBER 	8053ocrcleaned.txt	24	1
+227	 . Depot. STRENGTH AT DATE:- OFFICERS, 16. 	NURSING SISTERS, 18. OTHER RANKS, 129. AVERAGE NUMBER 	8057ocrcleaned.txt	28	1
+228	 . Depot 27/2/18. STRENGTH AT DATE:- OFFICERS, 19. 	NURSING SISTERS, 36. OTHER RANKS, 149. AVERAGE NUMBER 	8063ocrcleaned.txt	34	9
+229	  from 21/3/18. STRENGTH AT DATE:- OFFICERS, 20. 	NURSING SISTERS, 36. OTHER RANKS, 143. AVERAGE NUMBER 	8068ocrcleaned.txt	38	1
+230	 .S.. Strength at date:- Officers 21. 	Nursing Sisters-37. Other Ranks-137. Average number 	8071ocrcleaned.txt	41	1
+231	 ospital, 23/5/18. Strength at date:- Officers-22. 	Nursing Sisters-35. Other Ranks-133. Average number 	8074ocrcleaned.txt	44	3
+232	 ospital, 29/6/18. Strength at date:- Officers-23. 	Nursing Sisters-37. Other Ranks-132. Average number 	8076ocrcleaned.txt	46	8
+233	  Depot, 29/7/18. Strength at date— Officers-21. 	Nursing Sisters-39. Other Ranks-123. Average number 	8080ocrcleaned.txt	49	5
+234	 .C. 30/8/18. Strength at date:- Officers 20. 	Nursing Sisters-43. Other Ranks-132. Average number 	8082ocrcleaned.txt	51	4
+235	 ,Buxton,27/9/18. Strength at date - Officers 19. 	Nursing Sisters - 42. Other Ranks - 136. Average number 	8089ocrcleaned.txt	58	5
+236	 ength,31/10/18. Strength at date - Officers - 25. 	Nursing Sisters - 47. Other Ranks - 155. Average number 	8092ocrcleaned.txt	61	5
+237	 pital,28/11/18. Strength at date - officers - 24. 	Nursing Sisters - 52. Other Ranks - 148. Average number 	8097ocrcleaned.txt	66	4
+238	 /12/18. 31/12/18. Strength at date- Officers-21 . 	Nursing Sisters 43. Other Ranks- 135. Average number 	8100ocrcleaned.txt	69	8
+239	 .Depot,15-2-19. Strength at date - OFFICERS-23. 	NURSING SISTERS-52. OTHER RANKS-164. AVERAGE number 	8107ocrcleaned.txt	75	7
+240	 .M.C. Depot, as from 25/4/18. 	NURSING SISTERS R.L. GALLOWAY and 	8070ocrcleaned.txt	40	7
+241	  C.A.M.C. Depot, 10/5/18. 	NURSING SISTERS R.L. GALLOWAY and 	8073ocrcleaned.txt	43	4
+242	 .M.C.R. & T.Depot,15/10/18. 	NURSING SISTERS R.M.CORNETT and 	8091ocrcleaned.txt	60	7
+243	   13/8/18        (A.M.D. 4/4-W-606, d.12/8/18) 3. 	Nursing Sisters struck off strength     Nil 4. 	8083ocrcleaned.txt	52	4
+244	 . " " " " " A.M.D. 4/4-Y-49,d/23/10/18. 3. 	Nursing Sisters struck off the strength.- 	8093ocrcleaned.txt	62	4
+245	 . 21/11/18. / A.M.D. 4/4-G-558,d/25/11/18. (3) 	Nursing Sisters struck off strength,- E.	8098ocrcleaned.txt	67	4
+246	 ,Hastings,21/12/18,(A.M.D.4/2273,d/20/12/18). (3) 	Nursing Sisters struck off strength:- A.	8101ocrcleaned.txt.txt	70	4
+247	 ,18-1-19,(A.M.D.4/5-L-428,d/7-1-19) (3) 	Nursing Sisters struck off strength:-  H.	8104ocrcleaned.txt	72	4
+248	 .4-C-413,d/27-2-19) M.H.McGill )  (3) 	Nursing Sisters struck off strength;- I.	8108ocrcleaned.txt	76	4
+249	 Appendices  Eastbourne Sussex. February 28/19.(3) 	Nursing Sisters struck off strength.Contd. ;- 	8109ocrcleaned.txt	77	1
+250	  University, desired to serve as 	nursing sisters. The buildings end grounds 	8030ocrcleaned.txt	1	1
+251	 6/16 - 5 Recruits taken on the Strength. 6/6/16 - 	Nursing Sisters V.H. KEENE, J. 	8033ocrcleaned.txt	4	3
+252	  from No.9 Can. Stationary Hospital. - 24/1/17 - 	Nursing Sisters V.H. KEENE and 	8040ocrcleaned.txt	11	5
+253	  Red Cross Hospital, BUSHEY PARK. “ 16/4/17 - 	Nursing Sisters V.H. KEENE and 	8043ocrcleaned.txt	14	4
+254	 .M.C. Depot, with effect 8/1/18.  	Nursing Sisters V. WALKER, V.E. 	8059ocrcleaned.txt	30	3
+255	 .D. 4/4-W-314 d/20/9/18)  3. The following 	Nursing Sisters were struck off Strength 	8086occleaned.txt	55	4
+256	  AT STRENGTH IN OFFICERS AND 	NURSING SISTRS AND FOUR OVER STRENGTH 	8033ocrcleaned.txt	4	4
+257	  auxiliaries). Strength at Date:- OFFICERS, 14. 	NURSING SISTRS, 17. OTHER RANKS, 117. Attached:- OFFICERS	8045ocrcleaned.txt	16	1
+258	  this the health of the 	Nursing Staff has been excellent. b. 	8083ocrcleaned.txt	52	5
+259	 . Andrews Lodge where 26 of the 	Nursing Staff sleep. This residence is 	8083ocrcleaned.txt	52	6
+260	  the O.C. Officers and 	Nursing Staff to attend their Official 	8086occleaned.txt	55	5
+261	  to Appendices 14. C.G.H.  1. 	Nursing Strength on this date:- Matron.1. 	8083ocrcleaned.txt	52	1
+262	  Can Gen Hosp. Eastbourne Aug. 31  1. 	Nursing Strength on this date. Matron 1. 	8086occleaned.txt	55	1
